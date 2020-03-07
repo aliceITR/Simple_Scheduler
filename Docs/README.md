@@ -1,7 +1,3 @@
-# Program #2
-
-Name:Alice Blair
-
 How to compile:use the makefile use the commands:
                                                   make all
                                                   ./run < input
